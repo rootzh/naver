@@ -1,0 +1,6 @@
+gethostbyname(NULL)
+gethostbyname("")
+gethostbyname("xxx")
+gethostbyname("www.baidu.com")
+gethostbyname("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx adfa dfa")
+gethostbyname(0xffffffff)
